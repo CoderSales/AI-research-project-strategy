@@ -1,1 +1,12 @@
+# Strategy
+
+## Description
+
+
+## Content
+
+
+
+## References
+
 
